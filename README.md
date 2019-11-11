@@ -2,3 +2,5 @@
 
 This script checks your Date of Birth and detects the Day of the Week you were born.<br>
 Demo [here](https://date-of-birth-finder.firebaseapp.com/)
+
+Test
